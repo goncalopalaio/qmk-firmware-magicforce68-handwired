@@ -1,1 +1,1 @@
-# qmk-firmware-magicforce68-handwired-goncalo
+# qmk-firmware-magicforce68-handwired
